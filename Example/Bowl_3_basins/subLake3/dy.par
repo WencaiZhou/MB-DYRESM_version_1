@@ -1,0 +1,16 @@
+<#7>
+Dyresm Parameters File for DYCD v4.0.0
+1.3E-3 # bulk aerodynamic mmt.  transport coeff. (priv. comm. [Imberger, 1998])
+0.08 # mean albedo of water
+0.97 # emissivity of a water surface (Imberger & Patterson [1981, p316])
+3.00 # critical wind speed [m s^-1]
+54000 # time of day for output (secs from midnight) (54000 s= 15:00 HR)
+0.012 # bubbler entrainment coefficient (priv. comm. [Alexander,2000])
+0.083 # buoyant plume entrainment coefficient [Fischer et al. 1979]
+0.06 # shear production efficiency (eta K)
+0.20 # potential energy mixing efficiency (eta P)
+0.4 # wind stirring efficiency (eta S)
+1.0E+7 # effective surf. area coeff (critical area). (priv. com. [Yeates,2004]
+1.4E-5 # BBL detrainment diffusivity (priv. com. [Yeates,2004]
+200 # vertical mix coeff. (priv. com. [Yeates,2004]
+==========================================================================================
